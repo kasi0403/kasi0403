@@ -12,10 +12,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasi0403&show_icons=true&locale=en&layout=compact" alt="kasi0403" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasi0403&show_icons=true&locale=en" alt="kasi0403" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sankeerthi-kasibhatla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankeerthi-kasibhatla/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/keerthikasi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthikasi21" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasi0403&show_icons=true&locale=en" alt="kasi0403" /></p>
