@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasibhatla Sankeerthi</h1>
-<h3 align="center">A passionate fullstack developer with a keen interest in cloud computing and product design</h3>
+<h5 align="center">A passionate fullstack developer with a keen interest in cloud computing and product design</h5>
 
 🔭 I’m currently working on **full-stack and AI-powered applications.**
 
