@@ -2,7 +2,7 @@
 <h4 align="left">An aspiring software developer with a strong interest in Cloud Computing, Artificial Intelligence, and Product Design. I am a quick learner, passionate about exploring new technologies, and eager to apply my skills to real-world projects.</h4>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRqMmIzOHdvOWtzaHdpZmIzbnRheDY2eTVhZWxleGpsaDBxemQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" height="150" alt="fun gif" />
+ <iframe src="https://giphy.com/embed/ML15sUZFNyMy0Yv55m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m">via GIPHY</a></p>
 </div>
 
 
