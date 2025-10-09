@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kasibhatla Sankeerthi</h1>
 <h4 align="left">An aspiring software developer with a strong interest in Cloud Computing, Artificial Intelligence, and Product Design. I am a quick learner, passionate about exploring new technologies, and eager to apply my skills to real-world projects.</h4>
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRqMmIzOHdvOWtzaHdpZmIzbnRheDY2eTVhZWxleGpsaDBxemQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" height="150" alt="fun gif" />
+</div>
+
+
+
 🔭 I’m currently working on **full-stack and AI-powered applications.**
 
 🌱 I’m currently learning **Machine Learning, Generative AI, and building scalable applications using the MERN stack.**
